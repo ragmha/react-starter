@@ -27,13 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ragmha/react-starter-kit.git"
+    "url": "git+https://github.com/ragmha/react-starter.git"
   },
   "keywords": [],
   "author": "Raghib Hasan <raghibmidhat@gmail.com> (http://raghibm.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ragmha/react-starter-kit/issues"
+    "url": "https://github.com/ragmha/react-starter/issues"
   },
-  "homepage": "https://github.com/ragmha/react-starter-kit#readme"
+  "homepage": "https://github.com/ragmha/react-starter#readme"
 }
